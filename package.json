@@ -1,0 +1,23 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjddntjr555w/loglog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjddntjr555w/loglog/issues"
+  },
+  "homepage": "https://github.com/wjddntjr555w/loglog#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.3.4"
+  }
+}
